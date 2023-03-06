@@ -10,7 +10,7 @@ You can play it at:
 
 https://elenjendro.com/Space_Puncher/ 
 
-![](/animations/scr1.png){width: 100}
+![](/animations/scr1.png)
 
 ## How to play:
 
