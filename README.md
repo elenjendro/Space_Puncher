@@ -43,3 +43,4 @@ Ones you have the project directory in your system just open the index.html with
 - The sprites were drawn in Krita.
 - The code was edited from Vim.
 - The programing language mainly JavaScript.
+- The browser engine used during development was Firefox.
